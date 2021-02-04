@@ -1,4 +1,4 @@
-# DSiWare-install
+# DSiWare-Guide
 Way, how to install DSiWare into your DSi (including Flipnote Studio and Web Browser)
 
 ## You will need:
